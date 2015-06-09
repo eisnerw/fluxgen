@@ -11,7 +11,7 @@ Full development package, including configuration files and pre-built app entry 
 
 To install:
 ```
-1. clone the repo into a local directory.
+1. git clone https://github.com/nlifors/fluxgen.git
 2. npm install
 3. npm update
 ```
