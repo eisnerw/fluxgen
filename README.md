@@ -19,13 +19,16 @@ To install:
 ### To start developing:
 
 1. Start development mode (starts webpack build)
-`npm run dev`
+`npm run dev` 
 
 2. Start the Karma test runner:
-`npm run test`
+`npm run test` (in new console)
 
 3. Start the Express server:
-`nodemon`
+`nodemon` (in new console)
+
+4. Open up localhost:4000 to see the results.
+
 
 
 
